@@ -1,0 +1,5 @@
+/* (No Commment) */
+"CFBundleName" = "区域";
+"NSCameraUsageDescription" = "需要打开相机";
+"NSPhotoLibraryUsageDescription" = "需要打开相册";
+

@@ -1,0 +1,57 @@
+/* text of area name */
+"Area Name" = "地区名称";
+
+/* cell text for blog */
+"Blog" = "博客";
+
+/* cell text for comment */
+"Comment" = "评分";
+
+/* title for delete action */
+"Delete" = "";
+
+/* text of enter complete information */
+"Enter Complete Information" = "输入完整信息";
+
+/* section title for feedback */
+"Feedback" = "反馈";
+
+/* cell text for feedback */
+"Feedback your suggestion" = "反馈意见";
+
+/* section title for follow */
+"Follow" = "关注";
+
+/* text of incomplete information */
+"Incomplete Information" = "信息不完整";
+
+/* text of visited */
+"IsVisited" = "是否来过";
+
+/* text of not visited */
+"Not Visited" = "没来过";
+
+/* text of province */
+"Province" = "省";
+
+/* cell text for roadmap */
+"Roadmap" = "学习路线图";
+
+/* title for share action */
+"Share" = "分享";
+
+/* text of visited */
+"Visited" = "去过";
+
+/* text of warning */
+"Warning" = "警告";
+
+/* cell text for website */
+"Website" = "网站";
+
+/* text of zero basic */
+"Zero Basic" = "零基础";
+
+/* input key words to search */
+"enter key words" = "输入关键词";
+
